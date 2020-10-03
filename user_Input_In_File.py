@@ -1,4 +1,4 @@
-items = ["one"]
+items = ["one","two","three"]
 
 for item in items:
     with open("{}hello_world.txt".format(item), "w") as f:
