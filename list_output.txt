@@ -1,0 +1,16 @@
+
+HERE WHEN THE INPUT IS 9
+enter the no of element you want to add in list:9
+input 0 element in list: 12
+input 1 element in list: 323
+input 2 element in list: 112
+input 3 element in list: 321
+input 4 element in list: 21
+input 5 element in list: 2
+input 6 element in list: 2
+input 7 element in list: 32
+input 8 element in list: 12
+It may contain repetative element ['12', '323', '112', '321', '21', '2', '2', '32', '12']
+The list doesnot conatain repetative element ['323', '112', '12', '2', '321', '21', '32']
+The even element of list is :  ['12', '112', '2', '2', '32', '12']
+The odd element of list is :  ['323', '321', '21']
