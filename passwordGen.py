@@ -1,3 +1,12 @@
+'''def validate(username, password):
+    if username == "admin" and password == "admin":
+        print("valid password")
+    else:
+        print("invaid password")
+ validate(password="admin",username="admin")'''
+
+
+
 import random
 def generatePassword(Length = 8):
     l = ['@','#','$','%','&']
